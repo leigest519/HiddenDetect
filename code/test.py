@@ -194,9 +194,11 @@ def test(dataset,model_path,s = 16, e = 29):
             next_token_logits = logits[:, -1, :]
             reference_tokens = token_one_hot.to(next_token_logits.device)
             cos_sim = N.cosine_similarity(next_token_logits, reference_tokens)
-            F.append(cos_sim.item())
+            F.append(cos_sim.item())            
+        
 
-        if F:                 
+        if F: 
+            F = F[s:e+1]
             aware_auc = np.trapz(np.array(F))  
         else:                 
             aware_auc = None
