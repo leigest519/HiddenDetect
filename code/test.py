@@ -196,9 +196,8 @@ def test(dataset,model_path,s = 16, e = 29):
             cos_sim = N.cosine_similarity(next_token_logits, reference_tokens)
             F.append(cos_sim.item())            
         
-
-        if F: 
-            F = F[s:e+1]
+        F = F[s:e+1]
+        if F:             
             aware_auc = np.trapz(np.array(F))  
         else:                 
             aware_auc = None
