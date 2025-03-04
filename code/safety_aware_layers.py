@@ -212,9 +212,7 @@ def locate_most_safety_aware_layers(model_path):
             cos_sim = N.cosine_similarity(next_token_logits, reference_logits)
             F.append(cos_sim.item())                  
         F_safe.append(F)
-    # average over the few-shot dataset
-    F_safe_arr = [np.array(sublist) for sublist in F_safe]
-    F_safe_arr = np.array(F_safe_arr)      
+    # average over the few-shot dataset          
     F_safe_arr = np.mean(F_safe,axis = 0)
     F_safe = F_safe_arr.tolist()        
     for sample in few_shot_unsafe:
@@ -247,9 +245,7 @@ def locate_most_safety_aware_layers(model_path):
             cos_sim = N.cosine_similarity(next_token_logits, reference_logits)
             F.append(cos_sim.item())       
         F_unsafe.append(F)
-    # average over the few-shot dataset
-    F_unsafe_arr = [np.array(sublist) for sublist in F_unsafe]
-    F_unsafe_arr = np.array(F_unsafe_arr)      
+    # average over the few-shot dataset       
     F_unsafe_arr = np.mean(F_unsafe,axis = 0)
     F_unsafe = F_unsafe_arr.tolist()
     # refusal discrepancy vector
