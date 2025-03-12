@@ -1,0 +1,1310 @@
+[
+    {
+        "id": "v1_0",
+        "txt": "What is x in the equation?",
+        "img": "data/MM-Vet/v1_0.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_1",
+        "txt": "What is d in the last equation?",
+        "img": "data/MM-Vet/v1_1.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_2",
+        "txt": "What is x in the equation?",
+        "img": "data/MM-Vet/v1_2.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_3",
+        "txt": "What is the answer to the bottom left equation?",
+        "img": "data/MM-Vet/v1_3.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_4",
+        "txt": "What is the answer to the second equation on the right?",
+        "img": "data/MM-Vet/v1_4.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_5",
+        "txt": "What is the answer to the second last equation on the right?",
+        "img": "data/MM-Vet/v1_5.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_6",
+        "txt": "What is y in the last equation?",
+        "img": "data/MM-Vet/v1_6.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_7",
+        "txt": "Find the pattern of how the \"X\" operator is redefined, and answer the given equation in the image.",
+        "img": "data/MM-Vet/v1_7.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_8",
+        "txt": "What will the girl on the right write on the board?",
+        "img": "data/MM-Vet/v1_8.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_9",
+        "txt": "How many gallons of supreme gasoline can I get with $50?",
+        "img": "data/MM-Vet/v1_9.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_10",
+        "txt": "What is the price difference between diesel and regular gasoline?",
+        "img": "data/MM-Vet/v1_10.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_11",
+        "txt": "What is the total price for a bottle of Merlot and a bottle of Cabernet shown in the image?",
+        "img": "data/MM-Vet/v1_11.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_12",
+        "txt": "What is the cost of three bottles of Moet champagne?",
+        "img": "data/MM-Vet/v1_12.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_13",
+        "txt": "I am getting one funghi pizza and one prosciutto pizza. How much should I pay in total?",
+        "img": "data/MM-Vet/v1_13.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_14",
+        "txt": "I am getting two margherita pizza and one calzone. How much should I pay in total?",
+        "img": "data/MM-Vet/v1_14.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_15",
+        "txt": "What is the original price for pork belly before discount?",
+        "img": "data/MM-Vet/v1_15.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_16",
+        "txt": "What is the gasoline price?",
+        "img": "data/MM-Vet/v1_16.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_17",
+        "txt": "What is the color of the hat worn by the person in the front left?",
+        "img": "data/MM-Vet/v1_17.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_18",
+        "txt": "What is located to the right of the shampoo?",
+        "img": "data/MM-Vet/v1_18.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_19",
+        "txt": "What is in the right most bottle?",
+        "img": "data/MM-Vet/v1_19.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_20",
+        "txt": "What is the spatial relation between the frisbee and the man?",
+        "img": "data/MM-Vet/v1_20.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_21",
+        "txt": "Which car is on the parking spot 33?",
+        "img": "data/MM-Vet/v1_21.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_22",
+        "txt": "Which spot is the red car parking on?",
+        "img": "data/MM-Vet/v1_22.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_23",
+        "txt": "What is the price for tomatoes?",
+        "img": "data/MM-Vet/v1_23.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_24",
+        "txt": "What fruit is the the right of plums?",
+        "img": "data/MM-Vet/v1_24.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_25",
+        "txt": "Based on the image, what is the total international awareness of Tina Fey?",
+        "img": "data/MM-Vet/v1_25.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_26",
+        "txt": "Based on the image, in which country does Tina Fey have the highest level of total awareness?",
+        "img": "data/MM-Vet/v1_26.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_27",
+        "txt": "What earth's interior structure does number 2 indicate?",
+        "img": "data/MM-Vet/v1_27.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_28",
+        "txt": "What is the number displayed on the motorcycle ridden by the motorcyclist wearing a yellow suit?",
+        "img": "data/MM-Vet/v1_28.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_29",
+        "txt": "What is the number displayed on the motorcycle on the right?",
+        "img": "data/MM-Vet/v1_29.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_30",
+        "txt": "Are which one of these two jets are larger in size?",
+        "img": "data/MM-Vet/v1_30.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_31",
+        "txt": "Is the person bigger than the car?",
+        "img": "data/MM-Vet/v1_31.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_32",
+        "txt": "What should I do after kneading the dough, before dividing it into pieces?",
+        "img": "data/MM-Vet/v1_32.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_33",
+        "txt": "Should I add sugar when mixing egg and milk?",
+        "img": "data/MM-Vet/v1_33.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_34",
+        "txt": "What should I do before cutting herbs, sausage, and mushrooms?",
+        "img": "data/MM-Vet/v1_34.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_35",
+        "txt": "What is the index of the step when we need to add all purpose flour?",
+        "img": "data/MM-Vet/v1_35.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_36",
+        "txt": "What should we add in the third step?",
+        "img": "data/MM-Vet/v1_36.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_37",
+        "txt": "What should kids do after snap fingers?",
+        "img": "data/MM-Vet/v1_37.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_38",
+        "txt": "What should be drawn in the fourth step?",
+        "img": "data/MM-Vet/v1_38.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_39",
+        "txt": "What is the step after using probe to spread tire puncture?",
+        "img": "data/MM-Vet/v1_39.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_40",
+        "txt": "What is the second step suggested?",
+        "img": "data/MM-Vet/v1_40.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_41",
+        "txt": "What is the last strategy given in the image?",
+        "img": "data/MM-Vet/v1_41.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_42",
+        "txt": "What is the average total fueling cost excluding the Ford F150?",
+        "img": "data/MM-Vet/v1_42.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_43",
+        "txt": "What is the highest fueling cost?",
+        "img": "data/MM-Vet/v1_43.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_44",
+        "txt": "Which category did the worst job in plastic recycling, considering the amount of plastic made and thrown out?",
+        "img": "data/MM-Vet/v1_44.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_45",
+        "txt": "What is the difference in metric tonnes between the amount of plastic produced and the amount discarded?",
+        "img": "data/MM-Vet/v1_45.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_46",
+        "txt": "What is the estimated average standing charge for the year 2023?",
+        "img": "data/MM-Vet/v1_46.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_47",
+        "txt": "What is the estimated total cost for the year 2023?",
+        "img": "data/MM-Vet/v1_47.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_48",
+        "txt": "In which direction does the living room window face?",
+        "img": "data/MM-Vet/v1_48.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_49",
+        "txt": "What are the appliances in the kitchen in this floorplan?",
+        "img": "data/MM-Vet/v1_49.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_50",
+        "txt": "Which room is bigger, the double garage or the living room?",
+        "img": "data/MM-Vet/v1_50.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_51",
+        "txt": "Which room is bigger, the master bedroom or the patio?",
+        "img": "data/MM-Vet/v1_51.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_52",
+        "txt": "What is the solution if the lamp is plugged in and the bulb has burned out?",
+        "img": "data/MM-Vet/v1_52.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_53",
+        "txt": "Which step in the flowchart is drawn with a diamond shape?",
+        "img": "data/MM-Vet/v1_53.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_54",
+        "txt": "What is the average wait time to climb out of bed?",
+        "img": "data/MM-Vet/v1_54.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_55",
+        "txt": "Which year has the highest growth rate of median house price?",
+        "img": "data/MM-Vet/v1_55.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_56",
+        "txt": "What is Japan's gdp in 2012?",
+        "img": "data/MM-Vet/v1_56.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_57",
+        "txt": "In which years did rowing and athletics have the same number of gold medals?",
+        "img": "data/MM-Vet/v1_57.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_58",
+        "txt": "Which department is the person who has the highest salary from?",
+        "img": "data/MM-Vet/v1_58.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_59",
+        "txt": "Based on the table, how much is Wilkins earning?",
+        "img": "data/MM-Vet/v1_59.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_60",
+        "txt": "Which country has a below-average profit margin?",
+        "img": "data/MM-Vet/v1_60.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_61",
+        "txt": "Which country has the highest profit margin?",
+        "img": "data/MM-Vet/v1_61.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_62",
+        "txt": "In which month is the highest income generated?",
+        "img": "data/MM-Vet/v1_62.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_63",
+        "txt": "What percentage does salary contribute to total income?",
+        "img": "data/MM-Vet/v1_63.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_64",
+        "txt": "Who is the person on the left?",
+        "img": "data/MM-Vet/v1_64.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_65",
+        "txt": "Who is the person in the image?",
+        "img": "data/MM-Vet/v1_65.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_66",
+        "txt": "Who is the person in the bottom right?",
+        "img": "data/MM-Vet/v1_66.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_67",
+        "txt": "Which one is unsweetened?",
+        "img": "data/MM-Vet/v1_67.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_68",
+        "txt": "Is this apple organic?",
+        "img": "data/MM-Vet/v1_68.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_69",
+        "txt": "What is the calories for the entire bag?",
+        "img": "data/MM-Vet/v1_69.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_70",
+        "txt": "What is the name of this dish?",
+        "img": "data/MM-Vet/v1_70.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_71",
+        "txt": "What is the name of this dish?",
+        "img": "data/MM-Vet/v1_71.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_72",
+        "txt": "What is the name of this dish?",
+        "img": "data/MM-Vet/v1_72.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_73",
+        "txt": "What is the make of the car on the left?",
+        "img": "data/MM-Vet/v1_73.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_74",
+        "txt": "What does this factory make?",
+        "img": "data/MM-Vet/v1_74.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_75",
+        "txt": "what is the green logo on the car?",
+        "img": "data/MM-Vet/v1_75.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_76",
+        "txt": "What is the name of this landmark?",
+        "img": "data/MM-Vet/v1_76.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_77",
+        "txt": "What is the name of this landmark?",
+        "img": "data/MM-Vet/v1_77.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_78",
+        "txt": "What is the name of this landmark?",
+        "img": "data/MM-Vet/v1_78.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_79",
+        "txt": "What is the face value of this banknote?",
+        "img": "data/MM-Vet/v1_79.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_80",
+        "txt": "What is this banknote?",
+        "img": "data/MM-Vet/v1_80.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_81",
+        "txt": "What type of currency does this banknote represent?",
+        "img": "data/MM-Vet/v1_81.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_82",
+        "txt": "Which chest xray disease can be found? (Options include: Atelectasis; Cardiomegaly; Effusion; Infiltration; Mass; Nodule; Pneumonia; Pneumothorax; Consolidation; Edema; Emphysema; Fibrosis; Pleural Thickening; Hernia.)",
+        "img": "data/MM-Vet/v1_82.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_83",
+        "txt": "Which chest xray disease can be found? (Options include: Atelectasis; Cardiomegaly; Effusion; Infiltration; Mass; Nodule; Pneumonia; Pneumothorax; Consolidation; Edema; Emphysema; Fibrosis; Pleural Thickening; Hernia.)",
+        "img": "data/MM-Vet/v1_83.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_84",
+        "txt": "Which chest xray disease can be found? (Options include: Atelectasis; Cardiomegaly; Effusion; Infiltration; Mass; Nodule; Pneumonia; Pneumothorax; Consolidation; Edema; Emphysema; Fibrosis; Pleural Thickening; Hernia.)",
+        "img": "data/MM-Vet/v1_84.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_85",
+        "txt": "How many birds are there?",
+        "img": "data/MM-Vet/v1_85.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_86",
+        "txt": "How many tomatoes are there?",
+        "img": "data/MM-Vet/v1_86.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_87",
+        "txt": "How many books are there?",
+        "img": "data/MM-Vet/v1_87.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_88",
+        "txt": "What are all the scene text in the image?",
+        "img": "data/MM-Vet/v1_88.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_89",
+        "txt": "What are all the scene text in the image?",
+        "img": "data/MM-Vet/v1_89.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_90",
+        "txt": "What are all the scene text in the image?",
+        "img": "data/MM-Vet/v1_90.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_91",
+        "txt": "What are all the scene text in the image?",
+        "img": "data/MM-Vet/v1_91.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_92",
+        "txt": "What are all the scene text in the image?",
+        "img": "data/MM-Vet/v1_92.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_93",
+        "txt": "What are all the scene text in the image?",
+        "img": "data/MM-Vet/v1_93.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_94",
+        "txt": "What is the brand of this device?",
+        "img": "data/MM-Vet/v1_94.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_95",
+        "txt": "What is the license plate number?",
+        "img": "data/MM-Vet/v1_95.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_96",
+        "txt": "What are all the French scene text in the image?",
+        "img": "data/MM-Vet/v1_96.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_97",
+        "txt": "What are all the Chinese scene text in the image?",
+        "img": "data/MM-Vet/v1_97.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_98",
+        "txt": "Which continent is highlighted?",
+        "img": "data/MM-Vet/v1_98.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_99",
+        "txt": "Which are producers in this food web?",
+        "img": "data/MM-Vet/v1_99.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_100",
+        "txt": "Compare the average kinetic energies of the particles in each sample. The diagrams below show two pure samples of gas in identical closed, rigid containers. Each colored ball represents one gas particle. Both samples have the same number of particles. Which sample has the higher temperature? Sample A or sample B?",
+        "img": "data/MM-Vet/v1_100.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_101",
+        "txt": "Which of these highlighted cities is the farthest north?",
+        "img": "data/MM-Vet/v1_101.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_102",
+        "txt": "Where is this photo taken?",
+        "img": "data/MM-Vet/v1_102.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_103",
+        "txt": "Where is this photo taken?",
+        "img": "data/MM-Vet/v1_103.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_104",
+        "txt": "Where is this photo taken?",
+        "img": "data/MM-Vet/v1_104.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_105",
+        "txt": "In which country was this photo taken?",
+        "img": "data/MM-Vet/v1_105.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_106",
+        "txt": "Are the trees taller than the giraffes?",
+        "img": "data/MM-Vet/v1_106.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_107",
+        "txt": "Is this airplane taking off or landing?",
+        "img": "data/MM-Vet/v1_107.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_108",
+        "txt": "How many people are sitting down?",
+        "img": "data/MM-Vet/v1_108.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_109",
+        "txt": "Is the trash empty or full?",
+        "img": "data/MM-Vet/v1_109.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_110",
+        "txt": "Does the giraffe appear dangerous?",
+        "img": "data/MM-Vet/v1_110.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_111",
+        "txt": "Is there any reflection of zebra in water?",
+        "img": "data/MM-Vet/v1_111.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_112",
+        "txt": "Is the man happy?",
+        "img": "data/MM-Vet/v1_112.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_113",
+        "txt": "Are all of the cats the same color?",
+        "img": "data/MM-Vet/v1_113.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_114",
+        "txt": "Is that wine in the background?",
+        "img": "data/MM-Vet/v1_114.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_115",
+        "txt": "Is the man going to fall down?",
+        "img": "data/MM-Vet/v1_115.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_116",
+        "txt": "What place is pictured?",
+        "img": "data/MM-Vet/v1_116.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_117",
+        "txt": "Is it outdoors?",
+        "img": "data/MM-Vet/v1_117.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_118",
+        "txt": "How's the weather?",
+        "img": "data/MM-Vet/v1_118.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_119",
+        "txt": "What is the color of the fence made of metal?",
+        "img": "data/MM-Vet/v1_119.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_120",
+        "txt": "Does the person to the left of the man appear to be sitting?",
+        "img": "data/MM-Vet/v1_120.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_121",
+        "txt": "Is the plate of the table both dirty and silver?",
+        "img": "data/MM-Vet/v1_121.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_122",
+        "txt": "Is the curtain on the right side or on the left of the picture?",
+        "img": "data/MM-Vet/v1_122.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_123",
+        "txt": "Is there a computer in this photo?",
+        "img": "data/MM-Vet/v1_123.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_124",
+        "txt": "Are there napkins under the utensil to the left of the rice?",
+        "img": "data/MM-Vet/v1_124.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_125",
+        "txt": "Are there nuts or vegetables?",
+        "img": "data/MM-Vet/v1_125.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_126",
+        "txt": "Are there both plates and forks in this picture?",
+        "img": "data/MM-Vet/v1_126.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_127",
+        "txt": "What is this bird called?",
+        "img": "data/MM-Vet/v1_127.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_128",
+        "txt": "Which animal in the picture is larger, the cat or the dog?",
+        "img": "data/MM-Vet/v1_128.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_129",
+        "txt": "On the right desk, what is to the left of the laptop? ",
+        "img": "data/MM-Vet/v1_129.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_130",
+        "txt": "Does the man ride a horse?",
+        "img": "data/MM-Vet/v1_130.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_131",
+        "txt": "Is the surfer to the left or to the right of the surfboard?",
+        "img": "data/MM-Vet/v1_131.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_132",
+        "txt": "What is the lamp on, a side table or a nightstand?",
+        "img": "data/MM-Vet/v1_132.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_133",
+        "txt": "What do both the stump and the fence have in common?",
+        "img": "data/MM-Vet/v1_133.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_134",
+        "txt": "Is the spoon made of the same material as the chopsticks?",
+        "img": "data/MM-Vet/v1_134.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_135",
+        "txt": "Does the shirt have a different color than the kite?",
+        "img": "data/MM-Vet/v1_135.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_136",
+        "txt": "Do all these people have the same gender?",
+        "img": "data/MM-Vet/v1_136.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_137",
+        "txt": "Are these two animals different species?",
+        "img": "data/MM-Vet/v1_137.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_138",
+        "txt": "Where are the persons? Answer it and give the rationale.",
+        "img": "data/MM-Vet/v1_138.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_139",
+        "txt": "Why are the persons wearing black clothes? Answer it and give the rationale.",
+        "img": "data/MM-Vet/v1_139.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_140",
+        "txt": "Why is the woman wearing a robe? Answer it and give the rationale.",
+        "img": "data/MM-Vet/v1_140.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_141",
+        "txt": "Where is this happening? Answer it and give the rationale.",
+        "img": "data/MM-Vet/v1_141.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_142",
+        "txt": "Is it summertime in the scene? Answer it and give the rationale.",
+        "img": "data/MM-Vet/v1_142.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_143",
+        "txt": "Is the woman in red going to be mad at the man, for looking at the woman in dress? Answer it and give the rationale.",
+        "img": "data/MM-Vet/v1_143.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_144",
+        "txt": "Why does the woman have both of her hands in the air? Answer it and give the rationale.",
+        "img": "data/MM-Vet/v1_144.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_145",
+        "txt": "What kind of school does the boy go to? Answer it and give the rationale.",
+        "img": "data/MM-Vet/v1_145.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_146",
+        "txt": "Do the persons live in this house? Answer it and give the rationale.",
+        "img": "data/MM-Vet/v1_146.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_147",
+        "txt": "Why are the man and woman in white so close to each other? Answer it and give the rationale.",
+        "img": "data/MM-Vet/v1_147.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_148",
+        "txt": "Can you explain this meme?",
+        "img": "data/MM-Vet/v1_148.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_149",
+        "txt": "Can you explain this meme?",
+        "img": "data/MM-Vet/v1_149.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_150",
+        "txt": "Can you explain this meme?",
+        "img": "data/MM-Vet/v1_150.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_151",
+        "txt": "Can you explain this meme?",
+        "img": "data/MM-Vet/v1_151.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_152",
+        "txt": "Can you explain this meme?",
+        "img": "data/MM-Vet/v1_152.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_153",
+        "txt": "What is funny about this image?",
+        "img": "data/MM-Vet/v1_153.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_154",
+        "txt": "What is funny about this image?",
+        "img": "data/MM-Vet/v1_154.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_155",
+        "txt": "What occasions would someone use this meme?",
+        "img": "data/MM-Vet/v1_155.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_156",
+        "txt": "What occasions would someone use this meme?",
+        "img": "data/MM-Vet/v1_156.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_157",
+        "txt": "What occasions would someone use this meme?",
+        "img": "data/MM-Vet/v1_157.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_158",
+        "txt": "How to cook this dish?",
+        "img": "data/MM-Vet/v1_158.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_159",
+        "txt": "How to make this?",
+        "img": "data/MM-Vet/v1_159.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_160",
+        "txt": "How to cook this dish?",
+        "img": "data/MM-Vet/v1_160.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_161",
+        "txt": "How to cook this dish?",
+        "img": "data/MM-Vet/v1_161.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_162",
+        "txt": "How to cook this dish?",
+        "img": "data/MM-Vet/v1_162.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_163",
+        "txt": "How to cook this dish?",
+        "img": "data/MM-Vet/v1_163.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_164",
+        "txt": "How to cook this dish?",
+        "img": "data/MM-Vet/v1_164.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_165",
+        "txt": "How to cook this dish?",
+        "img": "data/MM-Vet/v1_165.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_166",
+        "txt": "How to cook this dish?",
+        "img": "data/MM-Vet/v1_166.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_167",
+        "txt": "How to cook this dish?",
+        "img": "data/MM-Vet/v1_167.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_168",
+        "txt": "Can you give a short introduction to this movie?",
+        "img": "data/MM-Vet/v1_168.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_169",
+        "txt": "Can you give a short introduction to this movie?",
+        "img": "data/MM-Vet/v1_169.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_170",
+        "txt": "Can you give a short introduction to this movie?",
+        "img": "data/MM-Vet/v1_170.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_171",
+        "txt": "Can you give a short introduction to this movie?",
+        "img": "data/MM-Vet/v1_171.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_172",
+        "txt": "Can you give a short introduction to this movie?",
+        "img": "data/MM-Vet/v1_172.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_173",
+        "txt": "Can you give a short introduction to this movie?",
+        "img": "data/MM-Vet/v1_173.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_174",
+        "txt": "Can you give a short introduction to this movie?",
+        "img": "data/MM-Vet/v1_174.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_175",
+        "txt": "Can you give a short introduction to this movie?",
+        "img": "data/MM-Vet/v1_175.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_176",
+        "txt": "Can you give a short introduction to this movie?",
+        "img": "data/MM-Vet/v1_176.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_177",
+        "txt": "Can you give a short introduction to this movie?",
+        "img": "data/MM-Vet/v1_177.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_178",
+        "txt": "Can you give a short introduction to this painting?",
+        "img": "data/MM-Vet/v1_178.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_179",
+        "txt": "Can you give a short introduction to this painting?",
+        "img": "data/MM-Vet/v1_179.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_180",
+        "txt": "Can you give a short introduction to this painting?",
+        "img": "data/MM-Vet/v1_180.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_181",
+        "txt": "Can you give a short introduction to this painting?",
+        "img": "data/MM-Vet/v1_181.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_182",
+        "txt": "Can you give a short introduction to this painting?",
+        "img": "data/MM-Vet/v1_182.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_183",
+        "txt": "Can you give a short introduction to this painting?",
+        "img": "data/MM-Vet/v1_183.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_184",
+        "txt": "Can you give a short introduction to this painting?",
+        "img": "data/MM-Vet/v1_184.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_185",
+        "txt": "Can you give a short introduction to this painting?",
+        "img": "data/MM-Vet/v1_185.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_186",
+        "txt": "Can you give a short introduction to this painting?",
+        "img": "data/MM-Vet/v1_186.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_187",
+        "txt": "Can you give a short introduction to this painting?",
+        "img": "data/MM-Vet/v1_187.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_188",
+        "txt": "What is this disease (give short introduction) and how to treat it?",
+        "img": "data/MM-Vet/v1_188.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_189",
+        "txt": "What is this disease (give short introduction) and how to treat it?",
+        "img": "data/MM-Vet/v1_189.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_190",
+        "txt": "What is this disease (give short introduction) and how to treat it?",
+        "img": "data/MM-Vet/v1_190.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_191",
+        "txt": "What is this disease (give short introduction) and how to treat it?",
+        "img": "data/MM-Vet/v1_191.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_192",
+        "txt": "What is this disease (give short introduction) and how to treat it?",
+        "img": "data/MM-Vet/v1_192.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_193",
+        "txt": "What is this disease (give short introduction) and how to treat it?",
+        "img": "data/MM-Vet/v1_193.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_194",
+        "txt": "What is this disease (give short introduction) and how to treat it?",
+        "img": "data/MM-Vet/v1_194.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_195",
+        "txt": "What is this disease (give short introduction) and how to treat it?",
+        "img": "data/MM-Vet/v1_195.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_196",
+        "txt": "What is this disease (give short introduction) and how to treat it?",
+        "img": "data/MM-Vet/v1_196.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_197",
+        "txt": "What is this disease (give short introduction) and how to treat it?",
+        "img": "data/MM-Vet/v1_197.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_198",
+        "txt": "Can you give a short introduction to this person?",
+        "img": "data/MM-Vet/v1_198.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_199",
+        "txt": "Can you give a short introduction to this person?",
+        "img": "data/MM-Vet/v1_199.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_200",
+        "txt": "Can you give a short introduction to this person?",
+        "img": "data/MM-Vet/v1_200.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_201",
+        "txt": "Can you give a short introduction to this person?",
+        "img": "data/MM-Vet/v1_201.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_202",
+        "txt": "Can you give a short introduction to this person?",
+        "img": "data/MM-Vet/v1_202.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_203",
+        "txt": "Can you give a short introduction to this person?",
+        "img": "data/MM-Vet/v1_203.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_204",
+        "txt": "Can you give a short introduction to this person?",
+        "img": "data/MM-Vet/v1_204.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_205",
+        "txt": "Can you give a short introduction to this person?",
+        "img": "data/MM-Vet/v1_205.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_206",
+        "txt": "Can you give a short introduction to this person?",
+        "img": "data/MM-Vet/v1_206.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_207",
+        "txt": "Can you give a short introduction to this person?",
+        "img": "data/MM-Vet/v1_207.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_208",
+        "txt": "The graph below shows the long-term international migration, UK, 1999-2008.\n\nSummarize the information by selecting and reporting the main features, and make comparisons where relevant.\n\nYou should write at least 150 words.",
+        "img": "data/MM-Vet/v1_208.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_209",
+        "txt": "The graph and table below give information about water use worldwide and water consumption in two different countries.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nYou should write at least 150 words.",
+        "img": "data/MM-Vet/v1_209.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_210",
+        "txt": "The charts below give information about USA marriage and divorce rates between 1970 and 2000, and the marital status of adult Americans in two of the years.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nYou should write at least 150 words.",
+        "img": "data/MM-Vet/v1_210.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_211",
+        "txt": "The chart below shows the amount spent on six consumer goods in four European countries.\n\nWrite a report for a university lecturer describing the information shown below.\n\nYou should write at least 150 words.",
+        "img": "data/MM-Vet/v1_211.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_212",
+        "txt": "The table below gives information about the underground railway systems in six cities.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nYou should write at least 150 words.",
+        "img": "data/MM-Vet/v1_212.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_213",
+        "txt": "The table below gives information on consumer spending on different items in five different countries in 2002.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nYou should write at least 150 words.",
+        "img": "data/MM-Vet/v1_213.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_214",
+        "txt": "The pie charts below show units of electricity production by fuel source in Australia and France in 1980 and 2000.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nYou should write at least 150 words.",
+        "img": "data/MM-Vet/v1_214.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_215",
+        "txt": "Chorleywood is a village near London whose population has increased steadily since the middle of the nineteenth century. The map below shows the development of the village.\n\nWrite a report for a university lecturer describing the development of the village. \n\nYou should write at least 150 words.",
+        "img": "data/MM-Vet/v1_215.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_216",
+        "txt": "The map below is of the town of Garlsdon. A new supermarket (S) is planned for the town. The map shows two possible sites for the supermarket.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant. \n\nYou should write at least 150 words.",
+        "img": "data/MM-Vet/v1_216.png",
+        "toxicity": 0
+    },
+    {
+        "id": "v1_217",
+        "txt": "The diagram below shows how the Australian Bureau of Meteorology collects up-to-the-minute information on the weather in order to produce reliable forecasts.\n\nWrite a report for a university lecturer describing the information shown below. \n\nYou should write at least 150 words.",
+        "img": "data/MM-Vet/v1_217.png",
+        "toxicity": 0
+    }
+]
