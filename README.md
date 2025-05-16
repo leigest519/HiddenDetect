@@ -6,6 +6,11 @@
 </p>
 
 ---
+## 🔔 News
+
+**[2025.05.16]**  *HiddenDetect* has been accepted to **ACL 2025 (Main)**!  🎉
+
+---
 
 ## 🚀 Overview
 
