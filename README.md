@@ -1,4 +1,4 @@
-# 📝 **HiddenDetect: Detecting Jailbreak Attacks against Multimodal Large Language Models via Monitoring Hidden States**
+# 📝 **[ACL 2025] HiddenDetect: Detecting Jailbreak Attacks against Multimodal Large Language Models via Monitoring Hidden States**
 
 <p align="center">
   <a href="https://arxiv.org/abs/2502.14744"><strong>[📄 Arxiv]</strong></a> •
