@@ -21,8 +21,11 @@ from itertools import islice
 from typing import Optional
 from time import sleep
 
-def load_XSTest(csv_path = 'data/xstest_v2_prompts.csv'):
-    df = pd.read_csv(csv_path)
+def load_XSTest(file_path = 'data/xstest-v2-copy/data/gpt4-00000-of-00001.parquet'):
+    if file_path.endswith('.parquet'):
+        df = pd.read_parquet(file_path)
+    else:
+        df = pd.read_csv(file_path)
     unsafe_set = []
     safe_set = []
     for index, row in df.iterrows():      
